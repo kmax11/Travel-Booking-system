@@ -1,0 +1,54 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 792px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 419px;
+  --thumb-color: #478ac9;
+  --thumb-hover-color: #77aad9;
+  --track-color: #c0c0c0;
+  --track-active-color: #478ac9;
+  margin: 9px 270px 60px 300px;
+}
+
+.u-section-1 .u-form-group-3 {
+  --progress: 0%;
+}
+
+.u-section-1 .u-form-group-4 {
+  --progress: 0%;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 170px;
+    margin-left: 200px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 60px;
+    margin-left: 90px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
